@@ -1,0 +1,49 @@
+place of burial
+genre
+medical condition
+country
+time period
+ethnic group
+parent organization
+diplomatic relation
+sport
+director
+record label
+child
+cause of death
+influenced by
+languages spoken, written, or signed
+practiced by
+founded by
+member of political party
+spouse
+author
+place of death
+industry
+continent
+located in the administrative terroritorial entity
+field of work
+named after
+country of citizenship
+occupation
+country of origin
+educated at
+unmarried partner
+official language
+instrument
+religion
+part of
+language of work or name
+sibling
+headquarters location
+place of birth
+member of sports team
+residence
+cast member
+movement
+uses
+location of formation
+employer
+member of
+narrative location
+airline hub
